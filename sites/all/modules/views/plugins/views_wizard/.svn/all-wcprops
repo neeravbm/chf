@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/sites/all/modules/views/plugins/views_wizard
+END
+views_ui_users_views_wizard.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/sites/all/modules/views/plugins/views_wizard/views_ui_users_views_wizard.class.php
+END
+file_managed.inc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/sites/all/modules/views/plugins/views_wizard/file_managed.inc
+END
+views_ui_comment_views_wizard.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/sites/all/modules/views/plugins/views_wizard/views_ui_comment_views_wizard.class.php
+END
+views_ui_node_revision_views_wizard.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/sites/all/modules/views/plugins/views_wizard/views_ui_node_revision_views_wizard.class.php
+END
+views_ui_node_views_wizard.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/sites/all/modules/views/plugins/views_wizard/views_ui_node_views_wizard.class.php
+END
+views_ui_taxonomy_term_views_wizard.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/sites/all/modules/views/plugins/views_wizard/views_ui_taxonomy_term_views_wizard.class.php
+END
+users.inc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/sites/all/modules/views/plugins/views_wizard/users.inc
+END
+comment.inc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/sites/all/modules/views/plugins/views_wizard/comment.inc
+END
+node_revision.inc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/sites/all/modules/views/plugins/views_wizard/node_revision.inc
+END
+views_ui_base_views_wizard.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/sites/all/modules/views/plugins/views_wizard/views_ui_base_views_wizard.class.php
+END
+views_ui_file_managed_views_wizard.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/sites/all/modules/views/plugins/views_wizard/views_ui_file_managed_views_wizard.class.php
+END
+node.inc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/sites/all/modules/views/plugins/views_wizard/node.inc
+END
+taxonomy_term.inc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/sites/all/modules/views/plugins/views_wizard/taxonomy_term.inc
+END

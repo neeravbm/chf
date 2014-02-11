@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/rdf
+END
+rdf.module
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/rdf/rdf.module
+END
+rdf.install
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/rdf/rdf.install
+END
+rdf.info
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/rdf/rdf.info
+END
+rdf.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/rdf/rdf.api.php
+END
+rdf.test
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/rdf/rdf.test
+END

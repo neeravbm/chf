@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/search/tests
+END
+search_extra_type.info
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/search/tests/search_extra_type.info
+END
+UnicodeTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/search/tests/UnicodeTest.txt
+END
+search_embedded_form.module
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/search/tests/search_embedded_form.module
+END
+search_embedded_form.info
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/search/tests/search_embedded_form.info
+END
+search_extra_type.module
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/search/tests/search_extra_type.module
+END

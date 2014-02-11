@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/field_ui
+END
+field_ui.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/field_ui/field_ui.admin.inc
+END
+field_ui.module
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/field_ui/field_ui.module
+END
+field_ui-rtl.css
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/field_ui/field_ui-rtl.css
+END
+field_ui.css
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/field_ui/field_ui.css
+END
+field_ui.info
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/field_ui/field_ui.info
+END
+field_ui.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/field_ui/field_ui.js
+END
+field_ui.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/field_ui/field_ui.api.php
+END
+field_ui.test
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/field_ui/field_ui.test
+END

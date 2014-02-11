@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/translation
+END
+translation.module
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/translation/translation.module
+END
+translation.pages.inc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/translation/translation.pages.inc
+END
+translation.info
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/translation/translation.info
+END
+translation.test
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/translation/translation.test
+END

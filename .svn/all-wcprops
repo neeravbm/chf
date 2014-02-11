@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2355/chf/trunk/user_web_portal/blog
+END
+web.config
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/web.config
+END
+INSTALL.sqlite.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/INSTALL.sqlite.txt
+END
+INSTALL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/INSTALL.txt
+END
+robots.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/robots.txt
+END
+COPYRIGHT.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/COPYRIGHT.txt
+END
+cron.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/cron.php
+END
+MAINTAINERS.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/MAINTAINERS.txt
+END
+INSTALL.mysql.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/INSTALL.mysql.txt
+END
+xmlrpc.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/xmlrpc.php
+END
+install.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/install.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2341/chf/trunk/user_web_portal/blog/index.php
+END
+authorize.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/authorize.php
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/LICENSE.txt
+END
+UPGRADE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/UPGRADE.txt
+END
+CHANGELOG.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/CHANGELOG.txt
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/.gitignore
+END
+update.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/update.php
+END
+INSTALL.pgsql.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/INSTALL.pgsql.txt
+END
+htaccess_bak
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2341/chf/trunk/user_web_portal/blog/htaccess_bak
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/README.txt
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2341/chf/trunk/user_web_portal/blog/.htaccess
+END

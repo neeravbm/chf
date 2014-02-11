@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/sites/all/modules/references
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/sites/all/modules/references/LICENSE.txt
+END
+CHANGELOG.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/sites/all/modules/references/CHANGELOG.txt
+END
+references.module
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/sites/all/modules/references/references.module
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/sites/all/modules/references/README.txt
+END
+references.info
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/sites/all/modules/references/references.info
+END
+references.feeds.inc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/sites/all/modules/references/references.feeds.inc
+END

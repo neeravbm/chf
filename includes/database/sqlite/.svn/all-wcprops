@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/includes/database/sqlite
+END
+select.inc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/includes/database/sqlite/select.inc
+END
+schema.inc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/includes/database/sqlite/schema.inc
+END
+database.inc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/includes/database/sqlite/database.inc
+END
+query.inc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/includes/database/sqlite/query.inc
+END
+install.inc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/includes/database/sqlite/install.inc
+END

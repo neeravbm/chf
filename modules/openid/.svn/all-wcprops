@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/openid
+END
+login-bg.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/openid/login-bg.png
+END
+openid.module
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/openid/openid.module
+END
+openid.install
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/openid/openid.install
+END
+openid-rtl.css
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/openid/openid-rtl.css
+END
+openid.pages.inc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/openid/openid.pages.inc
+END
+openid.css
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/openid/openid.css
+END
+openid.inc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/openid/openid.inc
+END
+openid.info
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/openid/openid.info
+END
+openid.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/openid/openid.js
+END
+openid.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/openid/openid.api.php
+END
+openid.test
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/openid/openid.test
+END

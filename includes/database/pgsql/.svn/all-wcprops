@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/includes/database/pgsql
+END
+select.inc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/includes/database/pgsql/select.inc
+END
+schema.inc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/includes/database/pgsql/schema.inc
+END
+database.inc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/includes/database/pgsql/database.inc
+END
+query.inc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/includes/database/pgsql/query.inc
+END
+install.inc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/includes/database/pgsql/install.inc
+END

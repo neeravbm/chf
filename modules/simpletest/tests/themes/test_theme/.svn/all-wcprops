@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/simpletest/tests/themes/test_theme
+END
+template.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/simpletest/tests/themes/test_theme/template.php
+END
+test_theme.info
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/simpletest/tests/themes/test_theme/test_theme.info
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/sites/all/modules/faq
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/sites/all/modules/faq/LICENSE.txt
+END
+faq.info
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/sites/all/modules/faq/faq.info
+END
+faq.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/sites/all/modules/faq/faq.js
+END
+faq.variable.inc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/sites/all/modules/faq/faq.variable.inc
+END
+faq.test
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/sites/all/modules/faq/faq.test
+END
+faq.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/sites/all/modules/faq/faq.admin.inc
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/sites/all/modules/faq/README.txt
+END
+faq.module
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/sites/all/modules/faq/faq.module
+END
+faq.install
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/sites/all/modules/faq/faq.install
+END
+faq.css
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/sites/all/modules/faq/faq.css
+END

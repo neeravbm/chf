@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/shortcut
+END
+shortcut.module
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/shortcut/shortcut.module
+END
+shortcut.install
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/shortcut/shortcut.install
+END
+shortcut-rtl.css
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/shortcut/shortcut-rtl.css
+END
+shortcut.css
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/shortcut/shortcut.css
+END
+shortcut.info
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/shortcut/shortcut.info
+END
+shortcut.admin.css
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/shortcut/shortcut.admin.css
+END
+shortcut.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/shortcut/shortcut.api.php
+END
+shortcut.test
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/shortcut/shortcut.test
+END
+shortcut.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/shortcut/shortcut.admin.inc
+END
+shortcut.admin.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/shortcut/shortcut.admin.js
+END
+shortcut.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/shortcut/shortcut.png
+END

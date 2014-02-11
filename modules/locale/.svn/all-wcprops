@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/locale
+END
+locale.module
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/locale/locale.module
+END
+locale.datepicker.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/locale/locale.datepicker.js
+END
+locale.install
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/locale/locale.install
+END
+locale-rtl.css
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/locale/locale-rtl.css
+END
+locale.css
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/locale/locale.css
+END
+locale.info
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/locale/locale.info
+END
+locale.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/locale/locale.api.php
+END
+locale.test
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/locale/locale.test
+END
+locale.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/locale/locale.admin.inc
+END

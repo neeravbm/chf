@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2319/chf/trunk/user_web_portal/blog/sites/all/modules/purl/includes
+END
+purl_domain.inc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2319/chf/trunk/user_web_portal/blog/sites/all/modules/purl/includes/purl_domain.inc
+END
+purl_pair.inc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2319/chf/trunk/user_web_portal/blog/sites/all/modules/purl/includes/purl_pair.inc
+END
+purl_extension.inc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2319/chf/trunk/user_web_portal/blog/sites/all/modules/purl/includes/purl_extension.inc
+END
+purl_path.inc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2319/chf/trunk/user_web_portal/blog/sites/all/modules/purl/includes/purl_path.inc
+END
+purl_querystring.inc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2319/chf/trunk/user_web_portal/blog/sites/all/modules/purl/includes/purl_querystring.inc
+END
+purl_useragent.inc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2319/chf/trunk/user_web_portal/blog/sites/all/modules/purl/includes/purl_useragent.inc
+END
+purl_processor.inc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2319/chf/trunk/user_web_portal/blog/sites/all/modules/purl/includes/purl_processor.inc
+END
+purl_subdomain.inc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2319/chf/trunk/user_web_portal/blog/sites/all/modules/purl/includes/purl_subdomain.inc
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2319/chf/trunk/user_web_portal/blog/sites/all/modules/views_modes
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2319/chf/trunk/user_web_portal/blog/sites/all/modules/views_modes/LICENSE.txt
+END
+views_modes_plugin_display_mode.inc
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2319/chf/trunk/user_web_portal/blog/sites/all/modules/views_modes/views_modes_plugin_display_mode.inc
+END
+views_modes.module
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2319/chf/trunk/user_web_portal/blog/sites/all/modules/views_modes/views_modes.module
+END
+views_modes_context_condition_views_modes.inc
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/2319/chf/trunk/user_web_portal/blog/sites/all/modules/views_modes/views_modes_context_condition_views_modes.inc
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2319/chf/trunk/user_web_portal/blog/sites/all/modules/views_modes/README.txt
+END
+views_modes.info
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2319/chf/trunk/user_web_portal/blog/sites/all/modules/views_modes/views_modes.info
+END

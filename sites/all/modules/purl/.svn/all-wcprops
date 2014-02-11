@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2319/chf/trunk/user_web_portal/blog/sites/all/modules/purl
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2319/chf/trunk/user_web_portal/blog/sites/all/modules/purl/LICENSE.txt
+END
+purl.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2319/chf/trunk/user_web_portal/blog/sites/all/modules/purl/purl.api.php
+END
+purl.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2319/chf/trunk/user_web_portal/blog/sites/all/modules/purl/purl.admin.inc
+END
+purl.admin.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2319/chf/trunk/user_web_portal/blog/sites/all/modules/purl/purl.admin.js
+END
+purl.module
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2319/chf/trunk/user_web_portal/blog/sites/all/modules/purl/purl.module
+END
+purl.install
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2319/chf/trunk/user_web_portal/blog/sites/all/modules/purl/purl.install
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2319/chf/trunk/user_web_portal/blog/sites/all/modules/purl/README.txt
+END
+purl.info
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2319/chf/trunk/user_web_portal/blog/sites/all/modules/purl/purl.info
+END

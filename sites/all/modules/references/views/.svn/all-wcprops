@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/sites/all/modules/references/views
+END
+references_plugin_row_fields.inc
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/sites/all/modules/references/views/references_plugin_row_fields.inc
+END
+references_handler_relationship.inc
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/sites/all/modules/references/views/references_handler_relationship.inc
+END
+references_plugin_style.inc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/sites/all/modules/references/views/references_plugin_style.inc
+END
+references_handler_argument.inc
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/sites/all/modules/references/views/references_handler_argument.inc
+END
+references_plugin_display.inc
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/sites/all/modules/references/views/references_plugin_display.inc
+END

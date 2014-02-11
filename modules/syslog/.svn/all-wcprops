@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/syslog
+END
+syslog.module
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/syslog/syslog.module
+END
+syslog.install
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/syslog/syslog.install
+END
+syslog.info
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/syslog/syslog.info
+END
+syslog.test
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/syslog/syslog.test
+END

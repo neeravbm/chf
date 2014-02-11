@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/dashboard
+END
+dashboard.info
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/dashboard/dashboard.info
+END
+dashboard.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/dashboard/dashboard.js
+END
+dashboard.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/dashboard/dashboard.api.php
+END
+dashboard.test
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/dashboard/dashboard.test
+END
+dashboard.module
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/dashboard/dashboard.module
+END
+dashboard.install
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/dashboard/dashboard.install
+END
+dashboard-rtl.css
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/dashboard/dashboard-rtl.css
+END
+dashboard.css
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/dashboard/dashboard.css
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2319/chf/trunk/user_web_portal/blog/sites/all/modules/less
+END
+composer.json
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2319/chf/trunk/user_web_portal/blog/sites/all/modules/less/composer.json
+END
+less.theme.inc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2319/chf/trunk/user_web_portal/blog/sites/all/modules/less/less.theme.inc
+END
+less.wysiwyg.inc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2319/chf/trunk/user_web_portal/blog/sites/all/modules/less/less.wysiwyg.inc
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2319/chf/trunk/user_web_portal/blog/sites/all/modules/less/LICENSE.txt
+END
+less.info
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2319/chf/trunk/user_web_portal/blog/sites/all/modules/less/less.info
+END
+less.drush.inc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2319/chf/trunk/user_web_portal/blog/sites/all/modules/less/less.drush.inc
+END
+less.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2319/chf/trunk/user_web_portal/blog/sites/all/modules/less/less.api.php
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2319/chf/trunk/user_web_portal/blog/sites/all/modules/less/.gitignore
+END
+less.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2319/chf/trunk/user_web_portal/blog/sites/all/modules/less/less.admin.inc
+END
+less.watch.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2319/chf/trunk/user_web_portal/blog/sites/all/modules/less/less.watch.js
+END
+less.module
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2319/chf/trunk/user_web_portal/blog/sites/all/modules/less/less.module
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2319/chf/trunk/user_web_portal/blog/sites/all/modules/less/README.txt
+END
+less.install
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2319/chf/trunk/user_web_portal/blog/sites/all/modules/less/less.install
+END
+less.cron.inc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2319/chf/trunk/user_web_portal/blog/sites/all/modules/less/less.cron.inc
+END

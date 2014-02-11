@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/openid/tests
+END
+openid_test.module
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/openid/tests/openid_test.module
+END
+openid_test.install
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/openid/tests/openid_test.install
+END
+openid_test.info
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/modules/openid/tests/openid_test.info
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/includes/database/mysql
+END
+schema.inc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/includes/database/mysql/schema.inc
+END
+database.inc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/includes/database/mysql/database.inc
+END
+query.inc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/includes/database/mysql/query.inc
+END
+install.inc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/includes/database/mysql/install.inc
+END

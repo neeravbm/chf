@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/scripts
+END
+drupal.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/scripts/drupal.sh
+END
+cron-lynx.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/scripts/cron-lynx.sh
+END
+generate-d6-content.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/scripts/generate-d6-content.sh
+END
+test.script
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/scripts/test.script
+END
+code-clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/scripts/code-clean.sh
+END
+generate-d7-content.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/scripts/generate-d7-content.sh
+END
+dump-database-d6.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/scripts/dump-database-d6.sh
+END
+dump-database-d7.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/scripts/dump-database-d7.sh
+END
+password-hash.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/scripts/password-hash.sh
+END
+cron-curl.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/scripts/cron-curl.sh
+END
+run-tests.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/scripts/run-tests.sh
+END

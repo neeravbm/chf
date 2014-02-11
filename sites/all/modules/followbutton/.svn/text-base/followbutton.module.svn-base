@@ -1,0 +1,217 @@
+<?php
+/**
+ * @file
+ * main file of the module
+ *
+ **/
+
+
+/**
+ * Implement hook_permission().
+ * 
+ * @access public
+ * @return array
+ */
+function followbutton_permission() {
+  return array(
+    'view follow button' => array(
+      'title' => t("View Follow Button"),
+      'description' => t("Allow the user to see the follow button")
+    ),
+  );
+}
+
+
+/**
+ * Implement hook_menu.
+ * 
+ * @access public
+ * @return array
+ */
+function followbutton_menu() {
+  return array(
+    'admin/config/followbutton' => array(
+      'title' => 'Follow Button',
+      'page callback' => 'drupal_get_form',
+      'page arguments' => array('followbutton_settings_form'),
+      'access arguments' => array('administer site configuration'),
+    ),
+  );
+}
+
+
+/**
+ * followbutton_settings_form function.
+ * 
+ * @access public
+ * @param mixed $form_state
+ * @return array
+ */
+function followbutton_settings_form($form_state) {
+  global $user;
+  $form = array();
+  $base = 'followbutton_';
+  
+  $form[$base . 'username'] = array(
+    '#type' => 'textfield',
+    '#title' => 'Twitter username',
+    '#description' => 'A twitter user name that the user gonna follow if he clicks on it.',
+    '#default_value' => variable_get($base . 'username', $user->name),
+  );
+  
+  $form[$base . 'bg_color'] = array(
+    '#type' => 'radios',
+    '#title' => 'Background color',
+    '#description' => 'The background color where the button will be used.',
+    '#default_value' => variable_get($base . 'bg_color', 'blue'),
+    '#options' => array(
+      'blue' => t("Light"),
+      'grey' => t("Dark"),
+    ),
+  );
+  
+  $form[$base . 'count'] = array(
+    '#type' => 'radios',
+    '#title' => 'Show follower count?',
+    '#default_value' => variable_get($base . 'count', 'true'),
+    '#options' => array(
+      'true' => t("Yes"),
+      'false' => t("No")
+    ),
+  );
+  
+  $form[$base . 'language'] = array(
+    '#type' => 'select',
+    '#title' => 'Language options',
+    '#default_value' => variable_get($base . 'language', 'en'),
+    '#options' => array(
+      'en' => t("English"),
+      'fr' => t("French"),
+      'de' => t("German"),
+      'it' => t("Italian"),
+      'ja' => t("Japanese"),
+      'ko' => t("Korean"),
+      'ru' => t("Russian"),
+      'es' => t("Spanish"),
+      'tr' => t("Turkish"),
+    ),
+  );
+  
+  $form['advanced'] = array(
+    '#type' => 'fieldset',
+    '#title' => 'Advanced options',
+    '#collapsible' => TRUE,
+    '#collapsed' => TRUE
+  );
+  
+  $form['advanced'][$base . 'text_color'] = array(
+    '#type' => 'textfield',
+    '#title' => t('Text color'),
+    '#description' => t("You can specify your own HEX color code for the text color (Followers count and “Following state”)."),
+    '#default_value' => variable_get($base . 'text_color', '800080'),
+    '#size' => 8,
+  );
+  
+  $form['advanced'][$base . 'link_color'] = array(
+    '#type' => 'textfield',
+    '#title' => t('Link color'),
+    '#description' => t("You can also specify your own HEX color code for the Username link color."),
+    '#default_value' => variable_get($base . 'link_color', '800080'),
+    '#size' => 8,
+  );
+  
+  return system_settings_form($form);
+}
+
+
+/**
+ * Implement hook_block_info().
+ * 
+ * @access public
+ * @return array
+ */
+function followbutton_block_info() {
+  $blocks = array();
+  
+  $blocks['followbutton'] = array(
+    'info' => t("Follow Button")
+  );
+  
+  return  $blocks;
+}
+
+
+/**
+ * Implement hook_block_view().
+ * 
+ * @access public
+ * @param mixed $delta
+ * @return void
+ */
+function followbutton_block_view($delta) {
+  $block = array();
+  
+  switch($delta) {
+    case'followbutton':
+      if (user_access('view follow button')) {
+        // get settings from variable_get
+        $base = 'followbutton_';
+        $settings = array(
+          'username' => variable_get($base . 'username', ''),
+          'bg_color' => variable_get($base . 'bg_color', 'blue'),
+          'count' => variable_get($base . 'count', 'true'),
+          'language' => variable_get($base . 'language', 'en'),
+          'text_color' => variable_get($base . 'text_color', '800080'),
+          'link_color' => variable_get($base . 'link_color', '800080'),
+        );
+        
+        $block['subject'] = t("Follow us");
+        $block['content'] = theme('followbutton_button',$settings);
+      }
+    break;
+  }
+  return $block;
+}
+
+
+/**
+ * Implement hook_theme().
+ * 
+ * @access public
+ * @param mixed $existing
+ * @param mixed $type
+ * @param mixed $theme
+ * @param mixed $path
+ * @return array
+ */
+function followbutton_theme($existing, $type, $theme, $path) {
+  return array(
+    'followbutton_button' => array(
+      'variables' => array('settings' => array()),
+    ),
+  );
+}
+
+
+/**
+ * theme_followbutton_button function.
+ * 
+ * @access public
+ * @param mixed $settings
+ * @return void
+ */
+function theme_followbutton_button($settings) {
+  if(!empty($settings['username'])) {
+    $attributes = array(
+      'class' => 'twitter-follow-button',
+      'data-show-count' => $settings['count'],
+      'data-button' => $settings['bg_color'],
+      'data-lang' => $settings['language'],
+      'data-text-color' => $settings['text_color'],
+      'data-link-color' => $settings['link_color'],
+    );
+    $content = '<a href="http://twitter.com/'. $settings['username'] .'"'. drupal_attributes($attributes) .'>Follow @'. $settings['username'] .'</a>';
+    return $content . '<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>';
+  }
+  return FALSE;
+}

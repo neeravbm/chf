@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2319/chf/trunk/user_web_portal/blog/sites/all/modules/nodequeue/includes/views
+END
+nodequeue_handler_field_all_queues.inc
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/2319/chf/trunk/user_web_portal/blog/sites/all/modules/nodequeue/includes/views/nodequeue_handler_field_all_queues.inc
+END
+nodequeue.views_default.inc
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/2319/chf/trunk/user_web_portal/blog/sites/all/modules/nodequeue/includes/views/nodequeue.views_default.inc
+END
+nodequeue_handler_field_links.inc
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/2319/chf/trunk/user_web_portal/blog/sites/all/modules/nodequeue/includes/views/nodequeue_handler_field_links.inc
+END
+nodequeue_handler_relationship_nodequeue.inc
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/2319/chf/trunk/user_web_portal/blog/sites/all/modules/nodequeue/includes/views/nodequeue_handler_relationship_nodequeue.inc
+END
+nodequeue_handler_field_all_subqueues.inc
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/2319/chf/trunk/user_web_portal/blog/sites/all/modules/nodequeue/includes/views/nodequeue_handler_field_all_subqueues.inc
+END
+nodequeue_handler_argument_subqueue_qid.inc
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/2319/chf/trunk/user_web_portal/blog/sites/all/modules/nodequeue/includes/views/nodequeue_handler_argument_subqueue_qid.inc
+END
+nodequeue_handler_field_queue_tab.inc
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/2319/chf/trunk/user_web_portal/blog/sites/all/modules/nodequeue/includes/views/nodequeue_handler_field_queue_tab.inc
+END
+nodequeue.views.inc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2319/chf/trunk/user_web_portal/blog/sites/all/modules/nodequeue/includes/views/nodequeue.views.inc
+END
+nodequeue_handler_filter_in_queue.inc
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/2319/chf/trunk/user_web_portal/blog/sites/all/modules/nodequeue/includes/views/nodequeue_handler_filter_in_queue.inc
+END
