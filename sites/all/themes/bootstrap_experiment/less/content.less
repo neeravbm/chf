@@ -1,4 +1,6 @@
 // Insert your styling here.
+@import "variables";
+@import "bootstrap";
 
 h1 {
   .page-header {
@@ -9,6 +11,26 @@ h1 {
 #main-page-content {
   padding-top: @font-size-h1;
   background-color: @page-bg-color;
+  @media only screen and (max-width : @screen-xs) {
+    padding-bottom: @main-content-padding-bottom;
+  }
+  .views-exposed-form {
+    .btn {
+      margin-top: 2.2em !important;
+    }
+  }
+  .view-search-page .views-row {
+    padding-bottom: 20px;
+  }
+  p.submitted_short {
+    float: left;
+  }
+  .social-links-upper {
+    @media only screen and (min-width: @screen-xs) {
+      float: right;
+      width: @social-links-width;
+    }
+  }
 }
 
 .medium-right {
@@ -240,8 +262,8 @@ h1 {
       display: inline-block;
       font-family: 'Glyphicons Halflings';
       font-style: normal;
-      font-weight: normal;
-      line-height: 1;
+      font-weight: bold;
+      line-height: 40px;
       -webkit-font-smoothing: antialiased;
       -moz-osx-font-smoothing: grayscale;
       &:before {
@@ -256,4 +278,8 @@ h1 {
       }
     }
   }
+  .faq-answer {
+    padding-left: 20px !important;
+  }
 }
+

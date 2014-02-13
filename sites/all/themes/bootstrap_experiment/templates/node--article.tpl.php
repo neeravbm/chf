@@ -109,6 +109,9 @@
     <?php if ($display_submitted): ?>
       <p class="submitted_short"><?php print ($view_mode == 'teaser' ? $pubdate : $submitted_short); ?></p>
     <?php endif; ?>
+    <div class="social-links-upper">
+      <?php print render($content['links']); ?>
+    </div>
     <?php print render($content); ?>
     <?php if ($display_submitted): ?>
       <div class="about">
