@@ -74,6 +74,24 @@ h1 {
       img {
         width: 100%;
         height: auto;
+        margin-bottom: (2 * @padding-large-vertical);
+        @media @tablet {
+          margin-bottom: (3 * @padding-large-vertical);
+        }
+      }
+    }
+    .field-name-field-tags {
+      margin-top: @padding-large-vertical;
+      .field-item {
+        display: inline;
+        &:before {
+          content: ', ';
+        }
+        &:first-of-type {
+          &:before {
+            content: '';
+          }
+        }
       }
     }
   }
@@ -301,3 +319,12 @@ h1 {
   }
 }
 
+.view-id-search_page {
+  .views-field-title {
+    a {
+      color: #333333;
+      text-decoration: none;
+      font-size: @font-size-h4;
+    }
+  }
+}
