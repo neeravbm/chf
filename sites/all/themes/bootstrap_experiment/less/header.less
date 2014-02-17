@@ -1,29 +1,77 @@
 @import "variables";
 @import "bootstrap";
 
-
 /** Search Form Navigation **/
 .views-exposed-form {
   #edit-search-api-views-fulltext-wrapper {
-    padding: 0.5em 0.3em 0 0;
+    @media only screen and (max-width: @screen-sm) {
+      padding: 0.45em 0.3em 0 0;
+    }
+    @media only screen and (min-width: @screen-sm) {
+      padding: 0.45em 0 0 0;
+    }
   }
   .form-control {
-    border: medium none;
-    border-radius: 10px 0 0 10px;
-    height: 20px;
-    line-height: 14px;
+    border-radius: 4px;
+    width: 100%;
+    height: 34px;
+    border: 1px solid #cccccc;
     margin-right: 0;
     padding: 3px 5px 3px 10px;
   }
   .btn {
-    border-radius: 0 10px 10px 0;
     display: inline-block;
     font-size: 12px;
     height: 20px;
     padding: 0 10px;
-    width: auto;
     background-color: #8CC243;
     border-color: #7FB23A;
     margin-top: 0 !important;
+    &:hover,
+    &:active,
+    &:focus {
+      background-color: #5e842b;
+      border-color: #7fb23a;
+    }
+    height: 34px;
+    width: auto;
+    border-radius: 4px;
+  }
+  margin-bottom: (@padding-large-vertical * 3);
+}
+
+.navbar-fixed-top {
+  #views-exposed-form-search-page-page {
+    @media only screen and (max-width: @screen-sm) {
+      padding-bottom: 0;
+      margin-bottom: 0;
+    }
+  }
+  .views-exposed-form {
+    margin-bottom: 0;
+    .form-control {
+      @media only screen and (min-width: @screen-sm) {
+        border-radius: 10px 0 0 10px;
+        height: 20px;
+        line-height: 14px;
+        border: medium none;
+      }
+    }
+    .btn {
+      @media only screen and (min-width: @screen-sm) {
+        height: 20px;
+        line-height: 14px;
+        width: auto;
+        border-radius: 0px 10px 10px 0;
+      }
+      @media only screen and (max-width: @screen-sm) {
+        width: 50%;
+      }
+    }
+    .views-exposed-widget {
+      @media only screen and (max-width: @screen-sm) {
+        float: none;
+      }
+    }
   }
 }

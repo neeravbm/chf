@@ -107,21 +107,21 @@
   ?>
   <div class="body-container">
     <?php if ($display_submitted): ?>
-      <p class="submitted_short"><?php print ($view_mode == 'teaser' ? $pubdate : $submitted_short); ?></p>
+      <p class="submitted_short"><?php print $submitted_short; ?></p>
     <?php endif; ?>
-    <div class="social-links-upper">
+    <!-- <div class="social-links-upper">
       <?php print render($content['links']); ?>
-    </div>
+    </div> -->
     <?php print render($content); ?>
-    <?php if ($display_submitted): ?>
+    <?php if ($display_submitted && $view_mode == 'full'): ?>
       <div class="about">
         <?php print $user_info; ?>
       </div>
       <div class="clearfix"></div>
     <?php endif; ?>
 
-    <?php print render($content['links']); ?>
-    <?php print render($content['comments']); ?>
+    <?php //print render($content['links']); ?>
+    <?php //print render($content['comments']); ?>
   </div>
 
 </article><!-- /.node -->
