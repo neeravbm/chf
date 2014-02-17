@@ -1,7 +1,7 @@
 10
 
 dir
-2362
+2374
 http://192.168.113.10/svn/chf/trunk/user_web_portal/blog/modules/simpletest/tests/upgrade
 http://192.168.113.10/svn
 
@@ -604,40 +604,6 @@ efoxy
 
 21027
 
-drupal-7.field.database.php
-file
-
-
-
-
-2014-02-11T10:21:29.000000Z
-4511c98f8152fe59c08b620bc321bfe5
-2013-07-11T14:58:48.138631Z
-1811
-efoxy
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-480
-
 drupal-6.upload.database.php
 file
 
@@ -671,6 +637,40 @@ efoxy
 
 
 9657
+
+drupal-7.field.database.php
+file
+
+
+
+
+2014-02-11T10:21:29.000000Z
+4511c98f8152fe59c08b620bc321bfe5
+2013-07-11T14:58:48.138631Z
+1811
+efoxy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+480
 
 upgrade.trigger.test
 file
@@ -706,40 +706,6 @@ efoxy
 
 1215
 
-upgrade.menu.test
-file
-
-
-
-
-2014-02-11T10:21:29.000000Z
-a45f633b8ae6fe2b757eb9d09b015b1b
-2013-07-11T14:58:48.138631Z
-1811
-efoxy
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3773
-
 drupal-6.node_type_broken.database.php
 file
 
@@ -773,6 +739,40 @@ efoxy
 
 
 651
+
+upgrade.menu.test
+file
+
+
+
+
+2014-02-11T10:21:29.000000Z
+a45f633b8ae6fe2b757eb9d09b015b1b
+2013-07-11T14:58:48.138631Z
+1811
+efoxy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3773
 
 drupal-6.forum.database.php
 file
@@ -842,40 +842,6 @@ efoxy
 
 1114
 
-update.field.test
-file
-
-
-
-
-2014-02-11T10:21:29.000000Z
-376588abc4adb3f035f9763a330a7f60
-2013-07-11T14:58:48.138631Z
-1811
-efoxy
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1728
-
 upgrade.taxonomy.test
 file
 
@@ -910,14 +876,14 @@ efoxy
 
 8683
 
-drupal-6.menu.database.php
+update.field.test
 file
 
 
 
 
 2014-02-11T10:21:29.000000Z
-9db97977e6403e1f5ead33cafd2fb820
+376588abc4adb3f035f9763a330a7f60
 2013-07-11T14:58:48.138631Z
 1811
 efoxy
@@ -942,7 +908,7 @@ efoxy
 
 
 
-3794
+1728
 
 drupal-7.trigger.database.php
 file
@@ -977,6 +943,40 @@ efoxy
 
 
 509
+
+drupal-6.menu.database.php
+file
+
+
+
+
+2014-02-11T10:21:29.000000Z
+9db97977e6403e1f5ead33cafd2fb820
+2013-07-11T14:58:48.138631Z
+1811
+efoxy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3794
 
 drupal-6.user-no-password-token.database.php
 file

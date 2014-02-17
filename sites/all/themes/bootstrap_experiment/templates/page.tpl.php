@@ -35,7 +35,7 @@
         </form>-->
 
         <form accept-charset="UTF-8" id="views-exposed-form-search-page-page main-nav-search-form"
-              class="navbar-form navbar-right" role="search" method="get" action="/search-page">
+              class="navbar-form navbar-right" role="search" method="get" action="/blog/search">
           <div class="views-exposed-form">
             <div class="views-exposed-widgets clearfix">
               <div class="views-exposed-widget views-widget-filter-search_api_views_fulltext"

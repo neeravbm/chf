@@ -1,7 +1,7 @@
 10
 
 dir
-2362
+2374
 http://192.168.113.10/svn/chf/trunk/user_web_portal/blog/modules
 http://192.168.113.10/svn
 
@@ -68,13 +68,13 @@ dir
 shortcut
 dir
 
-taxonomy
+color
 dir
 
 openid
 dir
 
-color
+taxonomy
 dir
 
 file
@@ -89,25 +89,25 @@ dir
 field
 dir
 
-node
+filter
 dir
 
-filter
+node
 dir
 
 contextual
 dir
 
-dblog
-dir
-
 dashboard
 dir
 
-forum
+dblog
 dir
 
 help
+dir
+
+forum
 dir
 
 simpletest

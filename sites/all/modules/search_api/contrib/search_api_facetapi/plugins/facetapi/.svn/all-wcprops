@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/contrib/search_api_facetapi/plugins/facetapi
+END
+query_type_term.inc
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/contrib/search_api_facetapi/plugins/facetapi/query_type_term.inc
+END
+adapter.inc
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/contrib/search_api_facetapi/plugins/facetapi/adapter.inc
+END
+query_type_date.inc
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/contrib/search_api_facetapi/plugins/facetapi/query_type_date.inc
+END

@@ -1,7 +1,7 @@
 10
 
 dir
-2362
+2374
 http://192.168.113.10/svn/chf/trunk/user_web_portal/blog/sites/all/modules/views/tests
 http://192.168.113.10/svn
 
@@ -548,40 +548,6 @@ efoxy
 taxonomy
 dir
 
-views_test.module
-file
-
-
-
-
-2014-02-11T10:20:02.000000Z
-9c5a66bbf6d8a9c927d996a1b93cc623
-2013-07-11T14:58:48.138631Z
-1811
-efoxy
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2933
-
 views_module.test
 file
 
@@ -616,13 +582,44 @@ efoxy
 
 5584
 
+views_test.module
+file
+
+
+
+
+2014-02-11T10:20:02.000000Z
+9c5a66bbf6d8a9c927d996a1b93cc623
+2013-07-11T14:58:48.138631Z
+1811
+efoxy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2933
+
 plugins
 dir
 
 field
-dir
-
-node
 dir
 
 views_exposed_form.test
@@ -658,6 +655,9 @@ efoxy
 
 
 7931
+
+node
+dir
 
 views_plugin_localization_test.inc
 file
@@ -727,9 +727,6 @@ efoxy
 
 5747
 
-templates
-dir
-
 views_cache.test
 file
 
@@ -763,6 +760,9 @@ efoxy
 
 
 7395
+
+templates
+dir
 
 views_query.test
 file

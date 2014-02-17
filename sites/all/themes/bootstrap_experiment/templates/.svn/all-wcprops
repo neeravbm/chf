@@ -7,13 +7,13 @@ page.tpl.php
 K 25
 svn:wc:ra_dav:version-url
 V 110
-/svn/!svn/ver/2341/chf/trunk/user_web_portal/blog/sites/all/themes/bootstrap_experiment/templates/page.tpl.php
+/svn/!svn/ver/2378/chf/trunk/user_web_portal/blog/sites/all/themes/bootstrap_experiment/templates/page.tpl.php
 END
 node--article.tpl.php
 K 25
 svn:wc:ra_dav:version-url
 V 119
-/svn/!svn/ver/2341/chf/trunk/user_web_portal/blog/sites/all/themes/bootstrap_experiment/templates/node--article.tpl.php
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/themes/bootstrap_experiment/templates/node--article.tpl.php
 END
 node.tpl.php
 K 25

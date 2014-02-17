@@ -1,7 +1,7 @@
 10
 
 dir
-2362
+2374
 http://192.168.113.10/svn/chf/trunk/user_web_portal/blog/sites/all/modules/ckeditor/ckeditor/ckeditor/plugins
 http://192.168.113.10/svn
 
@@ -44,10 +44,10 @@ dir
 magicline
 dir
 
-wsc
+pastefromword
 dir
 
-pastefromword
+wsc
 dir
 
 link
@@ -87,10 +87,10 @@ has-props
 
 13474
 
-dialog
+clipboard
 dir
 
-clipboard
+dialog
 dir
 
 tabletools

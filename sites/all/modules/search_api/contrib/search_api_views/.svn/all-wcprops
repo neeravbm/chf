@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/contrib/search_api_views
+END
+search_api_views.module
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/contrib/search_api_views/search_api_views.module
+END
+search_api_views.views.inc
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/contrib/search_api_views/search_api_views.views.inc
+END
+search_api_views.install
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/contrib/search_api_views/search_api_views.install
+END
+search_api_views.info
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/contrib/search_api_views/search_api_views.info
+END
+search_api_views.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/contrib/search_api_views/search_api_views.api.php
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/contrib/search_api_views/README.txt
+END

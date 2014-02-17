@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/contrib/search_api_facetapi
+END
+search_api_facetapi.install
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/contrib/search_api_facetapi/search_api_facetapi.install
+END
+example_service.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/contrib/search_api_facetapi/example_service.php
+END
+search_api_facetapi.info
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/contrib/search_api_facetapi/search_api_facetapi.info
+END
+search_api_facetapi.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/contrib/search_api_facetapi/search_api_facetapi.api.php
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/contrib/search_api_facetapi/README.txt
+END
+search_api_facetapi.module
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/contrib/search_api_facetapi/search_api_facetapi.module
+END

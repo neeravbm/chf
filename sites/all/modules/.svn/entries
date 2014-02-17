@@ -1,7 +1,7 @@
 10
 
 dir
-2362
+2374
 http://192.168.113.10/svn/chf/trunk/user_web_portal/blog/sites/all/modules
 http://192.168.113.10/svn
 
@@ -26,7 +26,7 @@ redcrackle
 
 34119ede-dd76-4a1a-a8b8-4c30d635c658
 
-token
+jquery_update
 dir
 
 references
@@ -35,7 +35,7 @@ dir
 purl
 dir
 
-fivestar
+metatag
 dir
 
 views_modes
@@ -44,37 +44,22 @@ dir
 pathauto
 dir
 
-menu_html
-dir
-
-sharethis
-dir
-
 nodequeue
 dir
 
-views
-dir
-
-link
-dir
-
-followbutton
+search_api
 dir
 
 devel
 dir
 
-votingapi
-dir
-
 ctools
 dir
 
-ckeditor
+search_api_db
 dir
 
-views_php
+ckeditor
 dir
 
 less
@@ -86,10 +71,43 @@ dir
 textformatter
 dir
 
+orchid
+dir
+
 disqus
 dir
 
-orchid
+chosen
+dir
+
+token
+dir
+
+fivestar
+dir
+
+google_analytics
+dir
+
+menu_html
+dir
+
+sharethis
+dir
+
+views
+dir
+
+link
+dir
+
+followbutton
+dir
+
+votingapi
+dir
+
+views_php
 dir
 
 README.txt
@@ -126,6 +144,18 @@ efoxy
 
 952
 
+entity
+dir
+
+admin_menu
+dir
+
 libraries
+dir
+
+page_title
+dir
+
+backup_migrate
 dir
 

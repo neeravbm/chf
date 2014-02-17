@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2318/chf/trunk/user_web_portal/blog/sites/all/modules/disqus
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/sites/all/modules/disqus/LICENSE.txt
+END
+disqus.info
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/sites/all/modules/disqus/disqus.info
+END
+disqus.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/sites/all/modules/disqus/disqus.js
+END
+disqus.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/sites/all/modules/disqus/disqus.admin.inc
+END
+disqus.module
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2318/chf/trunk/user_web_portal/blog/sites/all/modules/disqus/disqus.module
+END
+disqus.views.inc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/sites/all/modules/disqus/disqus.views.inc
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/sites/all/modules/disqus/.cvsignore
+END
+disqus.install
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/sites/all/modules/disqus/disqus.install
+END
+disqus.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/sites/all/modules/disqus/disqus.php
+END
