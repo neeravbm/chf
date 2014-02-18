@@ -20,7 +20,9 @@ function bootstrap_experiment_preprocess_page(&$vars) {
     global $base_url;
     $link = $menu['href'];
     $title = $menu['title'];
-    $footer_menu .= '<div class="footer-link-ctnr col-sm-6"><a href="' . $base_url . '/' . $link . '">' . $title . '</a></div>';
+    $attributes = !empty($menu['attributes']) ? $menu['attributes'] : array();
+    $footer_menu .= '<div class="footer-link-ctnr col-sm-6"><a href="' . $base_url . '/' . $link . '" ' .
+      drupal_attributes($attributes) . '>' . $title . '</a></div>';
   }
   $vars['footer_menu'] = $footer_menu;
 }
