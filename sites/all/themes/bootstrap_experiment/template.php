@@ -7,6 +7,17 @@
 
 
 function bootstrap_experiment_preprocess_page(&$vars) {
+  // Add information about the number of sidebars.
+  if (!empty($vars['page']['sidebar_first']) && !empty($vars['page']['sidebar_second'])) {
+    $vars['content_column_class'] = ' class="col-sm-4"';
+  }
+  elseif (!empty($vars['page']['sidebar_first']) || !empty($vars['page']['sidebar_second'])) {
+    $vars['content_column_class'] = ' class="col-sm-8"';
+  }
+  else {
+    $vars['content_column_class'] = ' class="col-sm-12"';
+  }
+
   $header_menu = theme('links', array(
     'links' => menu_navigation_links('menu-header'),
     'attributes' => array('class' => array('links', 'site-menu'))
