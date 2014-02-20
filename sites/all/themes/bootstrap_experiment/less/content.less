@@ -32,7 +32,7 @@ h1 {
   margin-bottom: @line-height-computed/3;
   @media @normal {
     float: right;
-    width: 40%;
+    max-width: 80%;
     margin-left: @grid-gutter-width/2;
   }
 }
@@ -41,14 +41,14 @@ h1 {
   margin-bottom: @line-height-computed/3;
   @media @normal {
     float: left;
-    width: 40%;
+    max-width: 80%;
     margin-right: @grid-gutter-width/2;
   }
 }
 
 .quote {
   color: @quote-color;
-  font-size: @font-size-large;
+  font-size: 26px;
   font-style: italic;
   margin-top: 5px;
 }
@@ -96,17 +96,23 @@ h1 {
     }
   }
   &.node-teaser {
+    margin-bottom: 50px;
     h2 {
       &.node-title {
         a {
-          color: #333333;
-          text-decoration: none;
+          color: @featured-articles-block-title-bg-color;
         }
       }
     }
   }
   .content {
     .clearfix;
+  }
+}
+
+h2 {
+  &.node-title {
+    margin-bottom: 30px;
   }
 }
 
@@ -256,7 +262,6 @@ h1 {
     margin-right: @about-thmubnail-right-margin;
   }
   .views-field-uid {
-    font-weight: bold;
     margin-left: (@about-thumbnail-size + @about-thmubnail-right-margin);
   }
   .views-field-field-google-plus-url {
@@ -268,8 +273,12 @@ h1 {
       width: 30px;
       height: 45px;
       margin-right: @padding-base-horizontal;
+      margin-top: @padding-large-vertical;
       float: left;
     }
+  }
+  .views-field-field-twitter-data {
+    margin-top: @padding-large-vertical;
   }
   .views-field-field-description {
     margin-left: (@about-thumbnail-size + @about-thmubnail-right-margin);

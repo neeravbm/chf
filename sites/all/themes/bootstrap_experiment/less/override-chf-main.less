@@ -6,7 +6,7 @@
 
 .navbar-fixed-top {
   form {
-    @media only screen and (max-width : @screen-sm) {
+    @media only screen and (max-width: @screen-sm) {
       padding-bottom: 0;
       margin-bottom: 0;
     }
@@ -20,4 +20,16 @@ body {
 
 p {
   line-height: @line-height-small;
+}
+
+h1 {
+  color: @featured-articles-block-title-bg-color;
+}
+
+a {
+  &:hover,
+  &:active,
+  &:focus {
+    text-decoration: underline;
+  }
 }
