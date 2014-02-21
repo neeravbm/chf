@@ -122,6 +122,9 @@
 
     <?php //print render($content['links']); ?>
     <?php //print render($content['comments']); ?>
+    <?php if ($view_mode == 'teaser'): ?>
+      <div class="read-more">... <a href="<?php print $node_url; ?>">Read More</a></div>
+    <?php endif; ?>
   </div>
 
 </article><!-- /.node -->
