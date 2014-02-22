@@ -262,23 +262,21 @@ h2 {
     margin-right: @about-thmubnail-right-margin;
   }
   .views-field-uid {
-    margin-left: (@about-thumbnail-size + @about-thmubnail-right-margin);
+    float: left;
+    margin-right: @about-thmubnail-right-margin;
   }
   .views-field-field-google-plus-url {
-    margin-left: (@about-thumbnail-size + @about-thmubnail-right-margin);
     a {
-      background-image: url(http://w.sharethis.com/images/googleplus_32.png);
+      /*background-image: url(http://w.sharethis.com/images/googleplus_32.png);*/
       background-repeat: no-repeat;
-      background-size: 30px;
-      width: 30px;
-      height: 45px;
+      background-size: 20px;
+      width: 20px;
+      height: 30px;
       margin-right: @padding-base-horizontal;
-      margin-top: @padding-large-vertical;
-      float: left;
     }
-  }
-  .views-field-field-twitter-data {
-    margin-top: @padding-large-vertical;
+    padding-top: 2px;
+    display: inline;
+    width: 20px;
   }
   .views-field-field-description {
     margin-left: (@about-thumbnail-size + @about-thmubnail-right-margin);
