@@ -283,3 +283,50 @@ h1 {
   }
 }
 
+.view-user-profile-page {
+  .view-header {
+    padding-top: @padding-large-vertical;
+    span.author-name {
+      font-size: @font-size-h3;
+      font-weight: @user-font-weight;
+    }
+    span.author-desc {
+      font-size: @font-size-h6;
+    }
+    p.user-profile-header-text {
+      background-color: #C4CCC8;
+      padding: 3px 0;
+      span.header-text {
+        font-weight: @user-font-weight;
+        padding: 0 6px;
+      }
+    }
+  }
+  .view-content {
+    .views-row {
+      padding: 10px 0px;
+      border-bottom: 1px dotted;
+      .views-field-title span{
+        font-weight: @user-font-weight;
+      }
+    }
+  }
+}
+
+.view-user-profile-details {
+  .views-field-picture {
+    float: left;
+  }
+  .views-field-author-details .author-details{
+    .author-name {
+      font-size: @font-size-large;
+    }
+    .author-mail {
+      font-size: 10px;
+    }
+  }
+  .views-field-field-description {
+    font-size: 10px;
+    padding-top: 5px;
+  }
+}
