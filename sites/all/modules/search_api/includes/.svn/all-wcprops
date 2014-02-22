@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/includes
+END
+processor_html_filter.inc
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/includes/processor_html_filter.inc
+END
+processor_tokenizer.inc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/includes/processor_tokenizer.inc
+END
+callback_add_aggregation.inc
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/includes/callback_add_aggregation.inc
+END
+processor_ignore_case.inc
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/includes/processor_ignore_case.inc
+END
+processor.inc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/includes/processor.inc
+END
+processor_transliteration.inc
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/includes/processor_transliteration.inc
+END
+callback_role_filter.inc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/includes/callback_role_filter.inc
+END
+callback_node_access.inc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/includes/callback_node_access.inc
+END
+datasource_entity.inc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/includes/datasource_entity.inc
+END
+callback_add_url.inc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/includes/callback_add_url.inc
+END
+datasource.inc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/includes/datasource.inc
+END
+callback_bundle_filter.inc
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/includes/callback_bundle_filter.inc
+END
+datasource_external.inc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/includes/datasource_external.inc
+END
+callback.inc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/includes/callback.inc
+END
+exception.inc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/includes/exception.inc
+END
+callback_language_control.inc
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/includes/callback_language_control.inc
+END
+callback_comment_access.inc
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/includes/callback_comment_access.inc
+END
+service.inc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/includes/service.inc
+END
+callback_add_hierarchy.inc
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/includes/callback_add_hierarchy.inc
+END
+server_entity.inc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/includes/server_entity.inc
+END
+callback_add_viewed_entity.inc
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/includes/callback_add_viewed_entity.inc
+END
+index_entity.inc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/includes/index_entity.inc
+END
+processor_stopwords.inc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/includes/processor_stopwords.inc
+END
+callback_node_status.inc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/includes/callback_node_status.inc
+END
+query.inc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/includes/query.inc
+END
+processor_highlight.inc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/includes/processor_highlight.inc
+END

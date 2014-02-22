@@ -630,7 +630,7 @@
 @container-sm:                 @container-tablet;
 
 // Medium screen / desktop
-@container-desktop:            ((940px + @grid-gutter-width));
+@container-desktop:            ((1140px + @grid-gutter-width));
 @container-md:                 @container-desktop;
 
 // Large screen / wide desktop
@@ -675,3 +675,9 @@
 // Horizontal rules
 // ----------------------------------
 @separator-color: #e4e4e6;//#6d6e71;
+
+
+// Main Content
+//-----------------------------------
+@main-content-padding-bottom: 20px;
+@social-links-width: 47%;

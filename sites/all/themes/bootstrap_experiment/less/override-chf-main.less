@@ -1,3 +1,35 @@
+@import "variables";
+
 .page-header {
   margin-top: 0;
+}
+
+.navbar-fixed-top {
+  form {
+    @media only screen and (max-width: @screen-sm) {
+      padding-bottom: 0;
+      margin-bottom: 0;
+    }
+  }
+}
+
+body {
+  font-size: @font-size-base;
+  line-height: @line-height-small;
+}
+
+p {
+  line-height: @line-height-small;
+}
+
+h1 {
+  color: @featured-articles-block-title-bg-color;
+}
+
+a {
+  &:hover,
+  &:active,
+  &:focus {
+    text-decoration: underline;
+  }
 }

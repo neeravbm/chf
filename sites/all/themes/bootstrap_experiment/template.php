@@ -7,6 +7,17 @@
 
 
 function bootstrap_experiment_preprocess_page(&$vars) {
+  // Add information about the number of sidebars.
+  if (!empty($vars['page']['sidebar_first']) && !empty($vars['page']['sidebar_second'])) {
+    $vars['content_column_class'] = ' class="col-sm-4"';
+  }
+  elseif (!empty($vars['page']['sidebar_first']) || !empty($vars['page']['sidebar_second'])) {
+    $vars['content_column_class'] = ' class="col-sm-8"';
+  }
+  else {
+    $vars['content_column_class'] = ' class="col-sm-12"';
+  }
+
   $header_menu = theme('links', array(
     'links' => menu_navigation_links('menu-header'),
     'attributes' => array('class' => array('links', 'site-menu'))
@@ -20,7 +31,9 @@ function bootstrap_experiment_preprocess_page(&$vars) {
     global $base_url;
     $link = $menu['href'];
     $title = $menu['title'];
-    $footer_menu .= '<div class="footer-link-ctnr col-sm-6"><a href="' . $base_url . '/' . $link . '">' . $title . '</a></div>';
+    $attributes = !empty($menu['attributes']) ? $menu['attributes'] : array();
+    $footer_menu .= '<div class="footer-link-ctnr col-sm-6"><a href="' . $base_url . '/' . $link . '" ' .
+      drupal_attributes($attributes) . '>' . $title . '</a></div>';
   }
   $vars['footer_menu'] = $footer_menu;
 }
@@ -74,9 +87,8 @@ function bootstrap_experiment_preprocess_node(&$variables, $hook) {
   $author_name = format_username($author);
   $variables['submitted_short'] = 'By ' . l($author_name, 'user/' . $variables['uid']) . '  |  ' . $variables['pubdate'];
 
-  $variables['user_info'] = views_embed_view('user_info', 'default', $variables['uid']);
-
   if ($variables['view_mode'] == 'full') {
+    $variables['user_info'] = views_embed_view('user_info', 'default', $variables['uid']);
     drupal_add_js(drupal_get_path('theme', 'bootstrap_experiment') . '/js/twitter.js', array('scope' => 'footer'));
   }
 }

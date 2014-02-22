@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/contrib/search_api_views/includes
+END
+handler_filter_taxonomy_term.inc
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/contrib/search_api_views/includes/handler_filter_taxonomy_term.inc
+END
+handler_filter_fulltext.inc
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/contrib/search_api_views/includes/handler_filter_fulltext.inc
+END
+handler_argument_date.inc
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/contrib/search_api_views/includes/handler_argument_date.inc
+END
+handler_filter_entity.inc
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/contrib/search_api_views/includes/handler_filter_entity.inc
+END
+handler_filter_date.inc
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/contrib/search_api_views/includes/handler_filter_date.inc
+END
+handler_argument.inc
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/contrib/search_api_views/includes/handler_argument.inc
+END
+handler_filter_user.inc
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/contrib/search_api_views/includes/handler_filter_user.inc
+END
+handler_filter_boolean.inc
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/contrib/search_api_views/includes/handler_filter_boolean.inc
+END
+display_facet_block.inc
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/contrib/search_api_views/includes/display_facet_block.inc
+END
+plugin_cache.inc
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/contrib/search_api_views/includes/plugin_cache.inc
+END
+handler_filter.inc
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/contrib/search_api_views/includes/handler_filter.inc
+END
+handler_sort.inc
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/contrib/search_api_views/includes/handler_sort.inc
+END
+handler_filter_language.inc
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/contrib/search_api_views/includes/handler_filter_language.inc
+END
+handler_filter_text.inc
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/contrib/search_api_views/includes/handler_filter_text.inc
+END
+handler_argument_more_like_this.inc
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/contrib/search_api_views/includes/handler_argument_more_like_this.inc
+END
+handler_filter_options.inc
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/contrib/search_api_views/includes/handler_filter_options.inc
+END
+handler_argument_taxonomy_term.inc
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/contrib/search_api_views/includes/handler_argument_taxonomy_term.inc
+END
+handler_argument_string.inc
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/contrib/search_api_views/includes/handler_argument_string.inc
+END
+query.inc
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/contrib/search_api_views/includes/query.inc
+END
+handler_argument_fulltext.inc
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/search_api/contrib/search_api_views/includes/handler_argument_fulltext.inc
+END

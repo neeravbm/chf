@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/chosen
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/chosen/LICENSE.txt
+END
+UPDATE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/chosen/UPDATE.txt
+END
+chosen.module
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/chosen/chosen.module
+END
+chosen.install
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/chosen/chosen.install
+END
+chosen.make.example
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/chosen/chosen.make.example
+END
+chosen.info
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/chosen/chosen.info
+END
+chosen.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/chosen/chosen.js
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/chosen/README.txt
+END
+chosen.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/sites/all/modules/chosen/chosen.admin.inc
+END

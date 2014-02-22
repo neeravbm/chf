@@ -11,13 +11,8 @@ h1 {
 #main-page-content {
   padding-top: @font-size-h1;
   background-color: @page-bg-color;
-  @media only screen and (max-width : @screen-xs) {
+  @media only screen and (max-width: @screen-xs) {
     padding-bottom: @main-content-padding-bottom;
-  }
-  .views-exposed-form {
-    .btn {
-      margin-top: 2.2em !important;
-    }
   }
   .view-search-page .views-row {
     padding-bottom: 20px;
@@ -37,7 +32,7 @@ h1 {
   margin-bottom: @line-height-computed/3;
   @media @normal {
     float: right;
-    width: 33%;
+    max-width: 80%;
     margin-left: @grid-gutter-width/2;
   }
 }
@@ -46,14 +41,14 @@ h1 {
   margin-bottom: @line-height-computed/3;
   @media @normal {
     float: left;
-    width: 33%;
+    max-width: 80%;
     margin-right: @grid-gutter-width/2;
   }
 }
 
 .quote {
   color: @quote-color;
-  font-size: @font-size-large;
+  font-size: 26px;
   font-style: italic;
   margin-top: 5px;
 }
@@ -79,11 +74,45 @@ h1 {
       img {
         width: 100%;
         height: auto;
+        margin-bottom: (2 * @padding-large-vertical);
+        @media @tablet {
+          margin-bottom: (3 * @padding-large-vertical);
+        }
+      }
+    }
+    .field-name-field-tags {
+      margin-top: @padding-large-vertical;
+      .field-item {
+        display: inline;
+        &:before {
+          content: ', ';
+        }
+        &:first-of-type {
+          &:before {
+            content: '';
+          }
+        }
+      }
+    }
+  }
+  &.node-teaser {
+    margin-bottom: 50px;
+    h2 {
+      &.node-title {
+        a {
+          color: @featured-articles-block-title-bg-color;
+        }
       }
     }
   }
   .content {
     .clearfix;
+  }
+}
+
+h2 {
+  &.node-title {
+    margin-bottom: 30px;
   }
 }
 
@@ -127,6 +156,12 @@ h1 {
   }
 }
 
+#block-views-nodequeue-1-block {
+  @media only screen and (max-width: @screen-sm) {
+    margin-bottom: 1em;
+  }
+}
+
 #block-views-nodequeue-1-block,
 #block-views-related-articles-block {
   h2 {
@@ -161,19 +196,22 @@ h1 {
       margin-top: 5px;
     }
   }
-  .views-field-body {
+  /*.views-field-body {
     @media @tablet {
       display: none;
     }
-  }
+  }*/
   .views-row {
     .clearfix;
     padding-bottom: @padding-small-horizontal;
-    padding-top: 5px;
+    padding-top: @padding-small-horizontal;
     border-bottom: 2px dotted @featured-articles-block-title-bg-color;
     &.views-row-last {
       padding-bottom: 0;
       border: 0;
+    }
+    &.views-row-first {
+      padding-top: 0;
     }
   }
 }
@@ -224,7 +262,6 @@ h1 {
     margin-right: @about-thmubnail-right-margin;
   }
   .views-field-uid {
-    font-weight: bold;
     margin-left: (@about-thumbnail-size + @about-thmubnail-right-margin);
   }
   .views-field-field-google-plus-url {
@@ -236,8 +273,12 @@ h1 {
       width: 30px;
       height: 45px;
       margin-right: @padding-base-horizontal;
+      margin-top: @padding-large-vertical;
       float: left;
     }
+  }
+  .views-field-field-twitter-data {
+    margin-top: @padding-large-vertical;
   }
   .views-field-field-description {
     margin-left: (@about-thumbnail-size + @about-thmubnail-right-margin);
@@ -253,8 +294,8 @@ h1 {
   padding-bottom: (@padding-large-vertical * 2);
 }
 
-
 .faq-question-answer {
+  margin: (@padding-large-vertical * 2);
   .faq-question {
     a {
       position: relative;
@@ -263,12 +304,13 @@ h1 {
       font-family: 'Glyphicons Halflings';
       font-style: normal;
       font-weight: bold;
-      line-height: 40px;
       -webkit-font-smoothing: antialiased;
       -moz-osx-font-smoothing: grayscale;
       &:before {
         content: "\e080  ";
       }
+      word-spacing: -0.5em;
+      padding-bottom: 0.5em;
     }
     &.faq-qa-visible {
       a {
@@ -281,6 +323,26 @@ h1 {
   .faq-answer {
     padding-left: 20px !important;
   }
+}
+
+.view-display-id-default {
+  .views-field-field-twitter-data {
+    .clearfix();
+  }
+}
+
+.view-id-search_page {
+  .views-field-title {
+    a {
+      color: #333333;
+      text-decoration: none;
+      font-size: @font-size-h4;
+    }
+  }
+}
+
+aside {
+  margin-bottom: @padding-large-vertical;
 }
 
 .view-user-profile-page {

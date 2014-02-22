@@ -74,9 +74,8 @@ function bootstrap_experiment_preprocess_node(&$variables, $hook) {
   $author_name = format_username($author);
   $variables['submitted_short'] = 'By ' . l($author_name, 'user/' . $variables['uid']) . '  |  ' . $variables['pubdate'];
 
-  $variables['user_info'] = views_embed_view('user_info', 'default', $variables['uid']);
-
   if ($variables['view_mode'] == 'full') {
+    $variables['user_info'] = views_embed_view('user_info', 'default', $variables['uid']);
     drupal_add_js(drupal_get_path('theme', 'bootstrap_experiment') . '/js/twitter.js', array('scope' => 'footer'));
   }
 }

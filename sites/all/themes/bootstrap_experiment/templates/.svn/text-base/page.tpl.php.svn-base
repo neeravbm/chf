@@ -26,13 +26,37 @@
           ?>
           <!-- Main Menu Ends -->
         <?php endif; ?>
-        <form class="navbar-form navbar-right" role="search" id="main-nav-search-form">
+        <!--<form class="navbar-form navbar-right" role="search" id="main-nav-search-form">
           <div class="form-group"><input type="text" class="form-control" id="main-nav-search-input"
                                          placeholder="search"></div
             >
           <button class="btn btn-primary" type="submit" id="main-nav-search-btn"><span
               class="glyphicon glyphicon-search"></span></button>
+        </form>-->
+
+        <form accept-charset="UTF-8" id="views-exposed-form-search-page-page main-nav-search-form"
+              class="navbar-form navbar-right" role="search" method="get" action="/blog/search">
+          <div class="views-exposed-form">
+            <div class="views-exposed-widgets clearfix">
+              <div class="views-exposed-widget views-widget-filter-search_api_views_fulltext"
+                   id="edit-search-api-views-fulltext-wrapper">
+                  <div class="views-widget">
+                    <div class="form-type-textfield form-item-search-api-views-fulltext form-item form-group">
+                      <input type="text" maxlength="128" value="" placeholder="search"
+                             name="search_api_views_fulltext" id="edit-search-api-views-fulltext main-nav-search-input"
+                             class="form-control form-text">
+                    </div>
+                  </div>
+              </div>
+              <div class="views-exposed-widget views-submit-button">
+                <button type="submit" value="Apply" name="" id="edit-submit-search-page main-nav-search-btn"
+                        class="btn btn-info form-submit btn-primary"><span class="glyphicon glyphicon-search"></span>
+                </button>
+              </div>
+            </div>
+          </div>
         </form>
+
       </div>
       <!--/.nav-collapse -->
     </div>

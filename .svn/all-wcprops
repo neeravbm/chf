@@ -9,23 +9,17 @@ svn:wc:ra_dav:version-url
 V 60
 /svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/web.config
 END
-INSTALL.sqlite.txt
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/INSTALL.sqlite.txt
-END
 INSTALL.txt
 K 25
 svn:wc:ra_dav:version-url
 V 61
 /svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/INSTALL.txt
 END
-robots.txt
+INSTALL.sqlite.txt
 K 25
 svn:wc:ra_dav:version-url
-V 60
-/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/robots.txt
+V 68
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/INSTALL.sqlite.txt
 END
 COPYRIGHT.txt
 K 25
@@ -33,23 +27,29 @@ svn:wc:ra_dav:version-url
 V 63
 /svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/COPYRIGHT.txt
 END
+robots.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/robots.txt
+END
 cron.php
 K 25
 svn:wc:ra_dav:version-url
 V 58
 /svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/cron.php
 END
-MAINTAINERS.txt
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/MAINTAINERS.txt
-END
 INSTALL.mysql.txt
 K 25
 svn:wc:ra_dav:version-url
 V 67
 /svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/INSTALL.mysql.txt
+END
+MAINTAINERS.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/MAINTAINERS.txt
 END
 xmlrpc.php
 K 25
@@ -67,13 +67,7 @@ index.php
 K 25
 svn:wc:ra_dav:version-url
 V 59
-/svn/!svn/ver/2341/chf/trunk/user_web_portal/blog/index.php
-END
-authorize.php
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/authorize.php
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/index.php
 END
 LICENSE.txt
 K 25
@@ -81,11 +75,11 @@ svn:wc:ra_dav:version-url
 V 61
 /svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/LICENSE.txt
 END
-UPGRADE.txt
+authorize.php
 K 25
 svn:wc:ra_dav:version-url
-V 61
-/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/UPGRADE.txt
+V 63
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/authorize.php
 END
 CHANGELOG.txt
 K 25
@@ -93,11 +87,17 @@ svn:wc:ra_dav:version-url
 V 63
 /svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/CHANGELOG.txt
 END
+UPGRADE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/UPGRADE.txt
+END
 .gitignore
 K 25
 svn:wc:ra_dav:version-url
 V 60
-/svn/!svn/ver/2255/chf/trunk/user_web_portal/blog/.gitignore
+/svn/!svn/ver/2375/chf/trunk/user_web_portal/blog/.gitignore
 END
 update.php
 K 25

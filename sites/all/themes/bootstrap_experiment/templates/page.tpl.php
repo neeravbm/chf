@@ -35,7 +35,7 @@
         </form>-->
 
         <form accept-charset="UTF-8" id="views-exposed-form-search-page-page main-nav-search-form"
-              class="navbar-form navbar-right" role="search" method="get" action="/search-page">
+              class="navbar-form navbar-right" role="search" method="get" action="/blog/search">
           <div class="views-exposed-form">
             <div class="views-exposed-widgets clearfix">
               <div class="views-exposed-widget views-widget-filter-search_api_views_fulltext"
@@ -80,7 +80,7 @@
     <div class="row">
 
       <?php if (!empty($page['sidebar_first'])): ?>
-        <aside class="col-sm-3" role="complementary">
+        <aside class="col-sm-4" role="complementary">
           <?php print render($page['sidebar_first']); ?>
         </aside>  <!-- /#sidebar-first -->
       <?php endif; ?>
@@ -110,7 +110,7 @@
       </section>
 
       <?php if (!empty($page['sidebar_second'])): ?>
-        <aside class="col-sm-3" role="complementary">
+        <aside class="col-sm-4" role="complementary">
           <?php print render($page['sidebar_second']); ?>
         </aside>  <!-- /#sidebar-second -->
       <?php endif; ?>
