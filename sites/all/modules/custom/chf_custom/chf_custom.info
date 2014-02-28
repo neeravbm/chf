@@ -1,0 +1,6 @@
+name = CHF Custom
+description = "Includes custom changes."
+core = 7.x
+
+files[] = chf_custom.module
+project = "Custom"

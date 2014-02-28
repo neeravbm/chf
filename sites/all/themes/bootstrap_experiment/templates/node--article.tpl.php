@@ -93,7 +93,6 @@
       <?php endif; ?>
       <?php print render($title_suffix); ?>
 
-
       <?php if ($unpublished): ?>
         <p class="unpublished"><?php print t('Unpublished'); ?></p>
       <?php endif; ?>
@@ -109,9 +108,12 @@
     <?php if ($display_submitted): ?>
       <p class="submitted_short"><?php print $submitted_short; ?></p>
     <?php endif; ?>
-    <!-- <div class="social-links-upper">
-      <?php print render($content['links']); ?>
-    </div> -->
+    <div class="social-links-upper">
+      <?php
+        $block = module_invoke('sharethis', 'block_view', 'sharethis_block');
+        print $block['content'];
+        //print render($content['links']); ?>
+    </div>
     <?php print render($content); ?>
     <?php if ($display_submitted && $view_mode == 'full'): ?>
       <div class="about">

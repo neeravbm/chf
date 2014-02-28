@@ -1,0 +1,26 @@
+<?php
+/**
+ * Created by PhpStorm.
+ * User: puneet
+ * Date: 2/28/14
+ * Time: 3:37 PM
+ */
+
+/**
+ * Implementation of hook_preprocess_views_view
+ * @param $vars
+ */
+function chf_custom_preprocess_views_view(&$vars) {
+  // Check for user profile page
+  if ($vars['view']->name == 'user_profile_page') {
+
+    // check the path for loading the user details
+    if(arg(0) =='user' && is_numeric(arg(1))) {
+      $user_details = user_load(arg(1));
+
+      //Change the title
+      $vars['view']->build_info['title'] = $user_details->field_first_name[LANGUAGE_NONE][0]['value'] . ' ' .
+            $user_details->field_last_name[LANGUAGE_NONE][0]['value'];
+    }
+  }
+}
